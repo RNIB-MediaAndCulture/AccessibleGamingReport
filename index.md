@@ -6,4 +6,5 @@ At the same time we performed quantitative research with companies in the games 
 This repository holds the reports from the research in both PDF and word format. This report may be freely distributed as long as it is suitably referenced. If you have any questions then please get in touch.
 
 [Word version of RNIB's Accessible Gaming Report 2022](https://github.com/RNIB-MediaAndCulture/AccessibleGamingReport/raw/main/RNIB%20Accessible%20Gaming%20Report_final_copy_sharing%20externally.docx)
+
 [PDF version of RNIB's Accessible Gaming Report 2022](https://github.com/RNIB-MediaAndCulture/AccessibleGamingReport/raw/main/RNIB%20Accessible%20Gaming%20Report_final_copy_sharing%20externally.pdf)
